@@ -1,4 +1,4 @@
-# Dylan Morgen 2022
+# Dylan Cole Morgen 2022
 # 
 # Not my best work (it was written in an hour or two), but hey it works.
 #
